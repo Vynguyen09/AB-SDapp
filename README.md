@@ -1,2 +1,10 @@
 # AB-SDapp
-Test report
+## Test report project
+The project is based on the SRS and design document of AB-SD software provided by Funix.
+### Environment:
+- Specification document
+- Design document
+- Demo app
+### Project objectives:
+- Test report
+- Create bug list
